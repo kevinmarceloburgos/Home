@@ -9,6 +9,7 @@ body {
     margin: 40px;
    background-color: #AAA;
     background-attachment: fixed;
+    background-size: cover;
     background-image: url(../imagenes/bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
